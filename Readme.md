@@ -1,15 +1,3 @@
-<!-- default file list -->
-*Files to look at*:
+# This example is obsolete
 
-[db.js](JS/data/db.js)
-
-<!-- default file list end -->
-# How to send authenticated requests to the OData service
-
-
-<p>This example demonstrates how to send authenticated requests to the OData service. The main idea is to handle the <a href="http://js.devexpress.com/Documentation/ApiReference/Data_Library/ODataContext/Configuration/#beforeSend">ODataContext.beforeSend</a> event and add login information to the header of your request.</p>
-<p>The <a href="https://www.devexpress.com/Support/Center/p/E4403">How to process authenticated requests on the OData service</a> example demonstrates how to process requests on the server side.</p>
-
-<br/>
-
-
+<p>From v18.1, the DevExtreme hybrid mobile-related tools, including DevExtreme SPA Framework, are deprecated. See <a href="https://community.devexpress.com/blogs/aspnet/archive/2018/02/26/devextreme-hybrid-mobile-tools-deprecation-in-v18-1.aspx"><u>this blog post</u></a> for more information. The mobile tools documentation was removed from the newer versions, but you can still find it in <a href="https://js.devexpress.com/Documentation/17_2/Guide/SPA_Framework/Application_Development/"><u>the older versions</u></a>.</p>
